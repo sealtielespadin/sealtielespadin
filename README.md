@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sealtielespadin
+- 👀 I’m interested in Data Science, Python and Science Intelligence
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me as Sealtiel Espadín
